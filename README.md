@@ -35,10 +35,10 @@ Shiritori is a traditional Japanese word game in which players take turns saying
 
 If you'd like to contribute to the development of this game, please follow these steps:
 
--Fork this repository to your GitHub account.
+1-Fork this repository to your GitHub account.
 
--Clone the forked repository to your local machine.
+2-Clone the forked repository to your local machine.
 
--Make your changes and improvements to the game.
+3-Make your changes and improvements to the game.
 
--Create a pull request with a clear description of your changes.
+4-Create a pull request with a clear description of your changes.

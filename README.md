@@ -22,9 +22,13 @@ Shiritori is a traditional Japanese word game in which players take turns saying
 # Rules
 
 1-Words must be in the chosen language (e.g., English, Japanese).
+
 2-Proper nouns (names of people, places, or things) are generally not allowed.
+
 3-Players can't use the same word twice in a single game.
+
 4-Setting a time limit for each turn is optional but can make the game more challenging.
+
 5-Feel free to use a dictionary or reference materials if disputes arise over word validity.
 
 # Contributing

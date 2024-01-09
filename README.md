@@ -13,9 +13,9 @@ Shiritori is a traditional Japanese word game in which players take turns saying
 
 5-The game ends when a player:
 
--Repeats a word that has already been used in the game.
+    -Repeats a word that has already been used in the game.
 
--Cannot think of a word within a reasonable time limit (e.g., 10 seconds).
+    -Cannot think of a word within a reasonable time limit (e.g., 10 seconds).
 
 6-The last player remaining in the game is the winner!
 
